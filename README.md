@@ -1,1 +1,1 @@
-# top100movies
+# Movie rating app
